@@ -24,7 +24,7 @@ import (
 )
 
 const (
-	endpoint = "https://email.us-east-1.amazonaws.com"
+	endpoint = "https://email.us-west-2.amazonaws.com"
 )
 
 var accessKey, secretKey string
